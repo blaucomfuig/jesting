@@ -1,0 +1,25 @@
+{
+  "name": "jesting",
+  "version": "1.0.0",
+  "description": "If these are your first steps with testing, and also with Jest library, this is your place. Come in ! We all enjoy jesting !",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blaucomfuig/jesting.git"
+  },
+  "author": "Sergio Corcuera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blaucomfuig/jesting/issues"
+  },
+  "homepage": "https://github.com/blaucomfuig/jesting#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "babel-jest": "^28.0.3",
+    "jest": "^28.1.0"
+  }
+}
