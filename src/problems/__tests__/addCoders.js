@@ -10,6 +10,6 @@ test('should have initial length of 5', () => {
 });
 
 
-// 1. Correr el test y comprobar si pasa exitosamente o no
-// 2. Explicar por qué han pasado (o no)
-// 3. Si es necesario, corregir y cambiar el código
+// 1. Run the tests
+// 2. Have they passed succesfully ? Why ? Why not ?
+// 3. If necessary, feel free to correct and change the code
