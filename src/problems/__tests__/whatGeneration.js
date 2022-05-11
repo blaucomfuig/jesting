@@ -1,8 +1,8 @@
 import { whatGeneration } from '../whatGeneration';
 
 describe('whatGeneration function', () => {
-    test('should return \'Generation X\' if year of birth is 1960', () => {
-        expect(whatGeneration(1960)).toBe('Generation X')
+    test('should return \'Generation X\' if year of birth is 1968', () => {
+        expect(whatGeneration(1968)).toBe('Generation X')
     });
     
     test('...', () => {
